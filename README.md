@@ -12,7 +12,7 @@ Perfil profissional de Daniel Marques
 - 💡 &nbsp; Interesse especial em **Desenvolvimento, DevOps e QA (Qualidade de Software)**.  
 - ⚙️ &nbsp; Focado em aprender **automação, integração contínua (CI/CD)** e boas práticas de versionamento.  
 - 🚀 &nbsp; Apaixonado por tecnologia, aprendizado contínuo e soluções que geram impacto real.  
-- ☕ &nbsp; Nos momentos livres, gosto de assistir séries e aprender coisas novas sobre tecnologia.
+- ☕ &nbsp; Nos momentos livres, gosto de aprender coisas novas sobre tecnologia.
 
 ---
 
@@ -38,7 +38,14 @@ Perfil profissional de Daniel Marques
   - Segurança e Auditoria de Sistemas  
   - Sociedade Brasileira e Cidadania  
   - Libras (Língua Brasileira de Sinais)  
-
+  -PROGRAMAÇÃO E DESENVOLVIMENTO DE BANCO DE DADOS
+  - PROJETO DE SOFTWARE
+  -ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
+  -LINGUAGEM DE PROGRAMAÇÃO
+  -ANÁLISE ORIENTADA A OBJETOS
+  -ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA
+  -ANÁLISE E MODELAGEM DE SISTEMAS
+  -MODELAGEM DE DADOS
 ---
 
 <h3>🌍 Idiomas</h3>
